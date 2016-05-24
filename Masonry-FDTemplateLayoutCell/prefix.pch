@@ -1,0 +1,16 @@
+//
+//  prefix.pch
+//  Masonry-FDTemplateLayoutCell
+//
+//  Created by Yong Li on 5/18/16.
+//  Copyright © 2016 yoli. All rights reserved.
+//
+
+#ifndef prefix_h
+#define prefix_h
+
+// Masonry
+#define MAS_SHORTHAND
+#define MAS_SHORTHAND_GLOBALS
+
+#endif /* prefix_h */
